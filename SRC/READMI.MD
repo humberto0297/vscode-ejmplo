@@ -10,4 +10,4 @@ del latín, descubrió la fuente indudable. Lorem Ipsum viene de las secciones 1
 (Los Extremos del Bien y El Mal) por Cicero, escrito en el año 45 antes
 de Cristo. Este libro es un tratado de teoría de éticas, muy popular 
  el Renacimiento. La primera del del Lorem Ipsum, "Lorem ipsum dolor sit amet..", viene de una del en la sección
- 1.10.32
+ 1.10.32ssa
